@@ -1,0 +1,43 @@
+{
+  "archivo_original": "Facebook_Saved_1.html",
+  "tamano_original_bytes": 11743171,
+  "tamano_original_mib": 11.199,
+  "tamano_objetivo_fragmento_bytes": 3145728,
+  "tamano_objetivo_fragmento_mib": 3.0,
+  "fragmentos": 4,
+  "partes": [
+    {
+      "part": 1,
+      "file": "Facebook_Saved_1_part_001.html",
+      "original_start_byte": 0,
+      "original_end_byte": 3639104,
+      "original_bytes": 3639104,
+      "output_bytes": 3639104
+    },
+    {
+      "part": 2,
+      "file": "Facebook_Saved_1_part_002.html",
+      "original_start_byte": 3639104,
+      "original_end_byte": 7305862,
+      "original_bytes": 3666758,
+      "output_bytes": 3666843
+    },
+    {
+      "part": 3,
+      "file": "Facebook_Saved_1_part_003.html",
+      "original_start_byte": 7305862,
+      "original_end_byte": 10808852,
+      "original_bytes": 3502990,
+      "output_bytes": 3503075
+    },
+    {
+      "part": 4,
+      "file": "Facebook_Saved_1_part_004.html",
+      "original_start_byte": 10808852,
+      "original_end_byte": 11743171,
+      "original_bytes": 934319,
+      "output_bytes": 934404
+    }
+  ],
+  "metodo": "Corte por limites seguros de elementos HTML, preferentemente cierres de article, section, li o div. Se ajustan los limites UTF-8."
+}

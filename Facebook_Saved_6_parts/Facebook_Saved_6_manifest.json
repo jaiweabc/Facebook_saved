@@ -1,0 +1,139 @@
+{
+  "archivo_original": "Facebook_Saved_6.html",
+  "tamano_original_bytes": 53986409,
+  "tamano_original_mib": 51.485,
+  "tamano_objetivo_fragmento_bytes": 3145728,
+  "tamano_objetivo_fragmento_mib": 3.0,
+  "fragmentos": 16,
+  "partes": [
+    {
+      "part": 1,
+      "file": "Facebook_Saved_6_part_001.html",
+      "original_start_byte": 0,
+      "original_end_byte": 3661772,
+      "original_bytes": 3661772,
+      "output_bytes": 3661772
+    },
+    {
+      "part": 2,
+      "file": "Facebook_Saved_6_part_002.html",
+      "original_start_byte": 3661772,
+      "original_end_byte": 7327330,
+      "original_bytes": 3665558,
+      "output_bytes": 3665643
+    },
+    {
+      "part": 3,
+      "file": "Facebook_Saved_6_part_003.html",
+      "original_start_byte": 7327330,
+      "original_end_byte": 10993882,
+      "original_bytes": 3666552,
+      "output_bytes": 3666637
+    },
+    {
+      "part": 4,
+      "file": "Facebook_Saved_6_part_004.html",
+      "original_start_byte": 10993882,
+      "original_end_byte": 14613803,
+      "original_bytes": 3619921,
+      "output_bytes": 3620006
+    },
+    {
+      "part": 5,
+      "file": "Facebook_Saved_6_part_005.html",
+      "original_start_byte": 14613803,
+      "original_end_byte": 18266756,
+      "original_bytes": 3652953,
+      "output_bytes": 3653038
+    },
+    {
+      "part": 6,
+      "file": "Facebook_Saved_6_part_006.html",
+      "original_start_byte": 18266756,
+      "original_end_byte": 21881262,
+      "original_bytes": 3614506,
+      "output_bytes": 3614591
+    },
+    {
+      "part": 7,
+      "file": "Facebook_Saved_6_part_007.html",
+      "original_start_byte": 21881262,
+      "original_end_byte": 25512588,
+      "original_bytes": 3631326,
+      "output_bytes": 3631411
+    },
+    {
+      "part": 8,
+      "file": "Facebook_Saved_6_part_008.html",
+      "original_start_byte": 25512588,
+      "original_end_byte": 29113909,
+      "original_bytes": 3601321,
+      "output_bytes": 3601406
+    },
+    {
+      "part": 9,
+      "file": "Facebook_Saved_6_part_009.html",
+      "original_start_byte": 29113909,
+      "original_end_byte": 32779892,
+      "original_bytes": 3665983,
+      "output_bytes": 3666068
+    },
+    {
+      "part": 10,
+      "file": "Facebook_Saved_6_part_010.html",
+      "original_start_byte": 32779892,
+      "original_end_byte": 36241957,
+      "original_bytes": 3462065,
+      "output_bytes": 3462150
+    },
+    {
+      "part": 11,
+      "file": "Facebook_Saved_6_part_011.html",
+      "original_start_byte": 36241957,
+      "original_end_byte": 39887890,
+      "original_bytes": 3645933,
+      "output_bytes": 3646018
+    },
+    {
+      "part": 12,
+      "file": "Facebook_Saved_6_part_012.html",
+      "original_start_byte": 39887890,
+      "original_end_byte": 43517273,
+      "original_bytes": 3629383,
+      "output_bytes": 3629468
+    },
+    {
+      "part": 13,
+      "file": "Facebook_Saved_6_part_013.html",
+      "original_start_byte": 43517273,
+      "original_end_byte": 47179163,
+      "original_bytes": 3661890,
+      "output_bytes": 3661975
+    },
+    {
+      "part": 14,
+      "file": "Facebook_Saved_6_part_014.html",
+      "original_start_byte": 47179163,
+      "original_end_byte": 50397417,
+      "original_bytes": 3218254,
+      "output_bytes": 3218339
+    },
+    {
+      "part": 15,
+      "file": "Facebook_Saved_6_part_015.html",
+      "original_start_byte": 50397417,
+      "original_end_byte": 53983884,
+      "original_bytes": 3586467,
+      "output_bytes": 3586552
+    },
+    {
+      "part": 16,
+      "file": "Facebook_Saved_6_part_016.html",
+      "original_start_byte": 53983884,
+      "original_end_byte": 53986409,
+      "original_bytes": 2525,
+      "output_bytes": 2610
+    }
+  ],
+  "metodo": "Corte por limites seguros de elementos HTML, preferentemente cierres de article, section, li o div. Se ajustan los limites UTF-8."
+}

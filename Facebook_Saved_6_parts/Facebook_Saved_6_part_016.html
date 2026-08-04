@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+
+  <p></p>
+</div>
+<div>
+  <strong>Scrolling stop by click:</strong>
+  <input type="checkbox" id="stop-scrolling-by-click">
+  <p>If enabled the option, scrolling is stopped when you click the scrolling window.</p>
+</div>
+<div>
+  <strong>Stop scrolling by cursor hovering over something:</strong>
+  <input type="checkbox" id="stop-scrolling-by-click-on-hover">
+  <p>If enabled the option, scrolling is stopped temporally when mouse cursor is hovering over something.</p>
+</div>
+<div>
+  <strong>Keyboard shortcut for single-click action:</strong>
+  <input type="text" id="keybind-single-click" value="Alt+Shift+PageDown">
+  <p class="mb-0">Fire a single-click action by keyboard shortcut<br>
+  </p><ul>
+    <li>Start scrolling when window is stopped</li>
+    <li>Stop scrolling when window is scrolling</li>
+    <li>Close option modal window when the window is opened</li>
+  </ul>
+  The keybind should be a combination of keycodes concatenated with the '+' sign. <br>
+  <i>Ex: Ctrl+Shift+Insert.</i><br>
+  Check out the link for the keycodes: <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/commands#Key_combinations" target="_blank">Key combinations</a><br>
+  <span class="text-gray">Notice: Some key combinations are reserved by the browser and can't be reassigned to this.<span><p></p>
+</span></span></div>
+<div>
+  <strong>Stop scrolling on focus out:</strong>
+  <input type="checkbox" id="stop-scrolling-on-focus-out">
+  <p>If enabled the option, scrolling is stopped when focus for the browser is moved to another application or browser window.</p>
+</div>
+<div>
+  <strong>Disable double click action:</strong>
+  <input type="checkbox" id="disable-double-click">
+  <p class="mb-0">If enabled the option</p>
+  <ul>
+    <li>cannot open modal window</li>
+    <li>start/stop scrolling is immediately</li>
+  </ul>
+  <p></p>
+</div>
+<div>
+  <strong>Restore scrolling from switch back:</strong>
+  <input type="checkbox" id="restore-scrolling-from-switch-back">
+  <p>If this option is enabled, scrolling which stopped by tab changing restarts when user is back to a tab that was scrolling.</p>
+</div>
+<div>
+  <strong>Stop when bottom of window:</strong>
+  <input type="checkbox" id="stop-when-bottom-of-window">
+  <p>If enabled, scrolling is stopped when window position is reached at bottom.</p>
+</div>
+    </div>
+  </div>
+</div></div></body><magic-gourd-content-body><magic-gourd-root></magic-gourd-root></magic-gourd-content-body>
+</body>
+</html>

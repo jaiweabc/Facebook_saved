@@ -1,0 +1,75 @@
+{
+  "archivo_original": "Facebook_Saved_4.html",
+  "tamano_original_bytes": 27122342,
+  "tamano_original_mib": 25.866,
+  "tamano_objetivo_fragmento_bytes": 3145728,
+  "tamano_objetivo_fragmento_mib": 3.0,
+  "fragmentos": 8,
+  "partes": [
+    {
+      "part": 1,
+      "file": "Facebook_Saved_4_part_001.html",
+      "original_start_byte": 0,
+      "original_end_byte": 3669387,
+      "original_bytes": 3669387,
+      "output_bytes": 3669387
+    },
+    {
+      "part": 2,
+      "file": "Facebook_Saved_4_part_002.html",
+      "original_start_byte": 3669387,
+      "original_end_byte": 7316155,
+      "original_bytes": 3646768,
+      "output_bytes": 3646853
+    },
+    {
+      "part": 3,
+      "file": "Facebook_Saved_4_part_003.html",
+      "original_start_byte": 7316155,
+      "original_end_byte": 10976519,
+      "original_bytes": 3660364,
+      "output_bytes": 3660449
+    },
+    {
+      "part": 4,
+      "file": "Facebook_Saved_4_part_004.html",
+      "original_start_byte": 10976519,
+      "original_end_byte": 14632939,
+      "original_bytes": 3656420,
+      "output_bytes": 3656505
+    },
+    {
+      "part": 5,
+      "file": "Facebook_Saved_4_part_005.html",
+      "original_start_byte": 14632939,
+      "original_end_byte": 18292049,
+      "original_bytes": 3659110,
+      "output_bytes": 3659195
+    },
+    {
+      "part": 6,
+      "file": "Facebook_Saved_4_part_006.html",
+      "original_start_byte": 18292049,
+      "original_end_byte": 21958971,
+      "original_bytes": 3666922,
+      "output_bytes": 3667007
+    },
+    {
+      "part": 7,
+      "file": "Facebook_Saved_4_part_007.html",
+      "original_start_byte": 21958971,
+      "original_end_byte": 25628576,
+      "original_bytes": 3669605,
+      "output_bytes": 3669690
+    },
+    {
+      "part": 8,
+      "file": "Facebook_Saved_4_part_008.html",
+      "original_start_byte": 25628576,
+      "original_end_byte": 27122342,
+      "original_bytes": 1493766,
+      "output_bytes": 1493851
+    }
+  ],
+  "metodo": "Corte por limites seguros de elementos HTML, preferentemente cierres de article, section, li o div. Se ajustan los limites UTF-8."
+}
