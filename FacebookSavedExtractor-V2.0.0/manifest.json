@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "FACEBOOK SAVED — EXTRACTOR",
+  "version": "2.0.0",
+  "description": "Extrae publicaciones guardadas de Facebook y las copia automáticamente a Messenger",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.facebook.com/saved/*",
+        "https://facebook.com/saved/*",
+        "https://web.facebook.com/saved/*"
+      ],
+      "js": ["content.js"],
+      "css": ["panel.css"],
+      "run_at": "document_start"
+    }
+  ],
+  "host_permissions": [
+    "https://www.facebook.com/*",
+    "https://facebook.com/*",
+    "https://web.facebook.com/*"
+  ],
+  "action": {
+    "default_title": "FACEBOOK SAVED — EXTRACTOR"
+  }
+}
